@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm A!
 
-<!--
-**anaelisme/anaelisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```plaintext
+     A     
+    A A    
+   A   A   
+  AAAAAAA  
+ A       A 
+A         A
+```
 
-Here are some ideas to get you started:
+## About Me ✨
+- 🅰 Aspiring Frontend Developer
+- 🅰 Always Learning
+- 🅰 Avid Problem Solver
+- 🅰 Admirer of Clean Code
+- 🅰 Advocate for Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack 🛠
+- **A**ngular | **A**stro | **A**nt Design
+- **A**mazon AWS | **A**zure
+- **A**rchitecture Patterns | **A**lgorithms
+
+## Let's Connect! 🌍
+- 🔗 [GitHub Profile](https://github.com/yourusername)
+- 📧 your.email@example.com
+
+---
+
+> "Always Aim for the A!" 🎯
